@@ -1,4 +1,6 @@
-http://us5.localto.net:4342
-http://us5.localto.net:4342
-209.97.150.167:80
-socks5://us5.localto.net:9953
+socks5://us5.localto.net:7331
+socks5://us5.localto.net:7331
+socks5://us5.localto.net:7331
+socks5://152.53.36.109:48441
+socks5://us5.localto.net:7023
+socks5://152.53.36.109:35808
