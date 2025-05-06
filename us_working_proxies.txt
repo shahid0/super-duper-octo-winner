@@ -1,2 +1,5 @@
-http://50.237.153.241:8081
-http://138.68.60.8:8080
+http://us5.localto.net:4342
+http://us5.localto.net:4342
+socks5://us5.localto.net:4165
+socks5://us5.localto.net:4165
+74.207.237.207:50513
