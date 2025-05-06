@@ -1,3 +1,4 @@
-170.106.144.64:8090
-socks5://us5.localto.net:7023
-47.90.205.231:33333
+http://us5.localto.net:4342
+http://us5.localto.net:4342
+209.97.150.167:80
+socks5://us5.localto.net:9953
